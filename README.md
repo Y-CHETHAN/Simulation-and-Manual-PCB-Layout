@@ -22,7 +22,7 @@ Proteus 8 Professional
 ![image](https://user-images.githubusercontent.com/75234991/225825176-5c567789-8933-48b5-98e1-744fb5bce53b.png)
 
 
-## MANUAL PCB LAYOUT (Scanned Image)
+## MANUAL PCB LAYOUT
 ![image](https://user-images.githubusercontent.com/75234991/225824653-9fde36f2-ce87-462f-a5db-9eb47710ff84.png)
 
 ## RESULT
