@@ -24,6 +24,6 @@ Proteus 8 Professional
 ## MANUAL PCB LAYOUT
 ![image](https://user-images.githubusercontent.com/75234991/225824653-9fde36f2-ce87-462f-a5db-9eb47710ff84.png)
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 ## RESULT
 Thus, we have successfully simulated a PCB Design and drawn the layout manually.
